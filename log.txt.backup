@@ -1,0 +1,158 @@
+L4 | Sat Nov 24 23:37:55 2018 (421 ms) | general | New game starting up
+L4 | Sat Nov 24 23:37:55 2018 (421 ms) | general | Target game image size:  1280x720
+
+L4 | Sat Nov 24 23:37:55 2018 (422 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sat Nov 24 23:37:55 2018 (423 ms) | general | Trying to start in fullscreen mode.
+L4 | Sat Nov 24 23:37:55 2018 (423 ms) | general | The following frame rates are considered possible:
+L4 | Sat Nov 24 23:37:55 2018 (424 ms) | general | 30 fps
+L4 | Sat Nov 24 23:37:55 2018 (424 ms) | general | 60 fps
+L4 | Sat Nov 24 23:37:55 2018 (424 ms) | general | 120 fps
+L4 | Sat Nov 24 23:37:55 2018 (424 ms) | general | 144 fps
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general | Current screen configuration is 1920x1080 with aspect ratio 1.77
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general | Sticking with user's current screen resolution
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general | Checking if requested video mode (1920x1080) is available
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general | Available video modes:
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    3840 x 2160
+
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1920 x 1080
+
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1768 x 992
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1680 x 1050
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1600 x 1024
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1600 x 900
+
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1366 x 768
+
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1360 x 768
+
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1280 x 1024
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1280 x 960
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1280 x 800
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1280 x 768
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1280 x 720
+
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1176 x 664
+
+L4 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1152 x 864
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    1024 x 768
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    800 x 600
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    720 x 576
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    720 x 480
+
+L5 | Sat Nov 24 23:37:55 2018 (452 ms) | general |    640 x 480
+
+L4 | Sat Nov 24 23:37:55 2018 (990 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sat Nov 24 23:37:56 2018 (165 ms) | general | Recording game into file recordedGames\recordedGame000001.txt
+L4 | Sat Nov 24 23:37:56 2018 (165 ms) | general | Only keeping 20 past recordings
+L4 | Sat Nov 24 23:37:56 2018 (165 ms) | general | Removed 0 stale recordings
+L4 | Sat Nov 24 23:38:48 2018 (803 ms) | general | Relaunching game OneLife.exe
+L4 | Sat Nov 24 23:38:48 2018 (808 ms) | general | exiting...
+
+L4 | Sat Nov 24 23:38:48 2018 (808 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sat Nov 24 23:38:48 2018 (852 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sat Nov 24 23:38:48 2018 (852 ms) | general | Freeing sound sprites
+
+L4 | Sat Nov 24 23:38:48 2018 (852 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sat Nov 24 23:38:48 2018 (863 ms) | general | New game starting up
+L4 | Sat Nov 24 23:38:48 2018 (863 ms) | general | Target game image size:  1280x720
+
+L4 | Sat Nov 24 23:38:48 2018 (864 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sat Nov 24 23:38:48 2018 (864 ms) | general | Trying to start in fullscreen mode.
+L4 | Sat Nov 24 23:38:48 2018 (866 ms) | general | The following frame rates are considered possible:
+L4 | Sat Nov 24 23:38:48 2018 (866 ms) | general | 30 fps
+L4 | Sat Nov 24 23:38:48 2018 (866 ms) | general | 60 fps
+L4 | Sat Nov 24 23:38:48 2018 (866 ms) | general | 120 fps
+L4 | Sat Nov 24 23:38:48 2018 (866 ms) | general | 144 fps
+L4 | Sat Nov 24 23:38:48 2018 (871 ms) | general | Setting borderless mode for fullscreen
+L4 | Sat Nov 24 23:38:48 2018 (871 ms) | general | Current screen configuration is 1920x1080 with aspect ratio 1.77
+L4 | Sat Nov 24 23:38:48 2018 (871 ms) | general | All resolutions available
+L4 | Sat Nov 24 23:38:48 2018 (871 ms) | general | Sticking with user's current screen resolution
+L4 | Sat Nov 24 23:38:48 2018 (872 ms) | general | Adding 1 to borderless window height of 1080 resulting in total height of 1081
+L4 | Sat Nov 24 23:38:48 2018 (882 ms) | general | exiting: Deleting screen
+
+L4 | Sat Nov 24 23:38:48 2018 (882 ms) | general | exiting: freeing drawString
+
+L4 | Sat Nov 24 23:38:48 2018 (883 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sat Nov 24 23:38:48 2018 (932 ms) | general | exiting: Done.
+
+L4 | Sat Nov 24 23:38:49 2018 (358 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Sat Nov 24 23:38:49 2018 (452 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sat Nov 24 23:38:51 2018 (386 ms) | general | Measured frame rate = 59.999995 fps
+
+L4 | Sat Nov 24 23:38:51 2018 (386 ms) | general | Closest possible frame rate = 60 fps
+
+L4 | Sat Nov 24 23:38:51 2018 (386 ms) | general | Vsync seems to be enforcing an allowed frame rate of 60 fps.
+
+L4 | Sat Nov 24 23:38:51 2018 (404 ms) | general | Recording game into file recordedGames\recordedGame000002.txt
+L4 | Sat Nov 24 23:38:51 2018 (404 ms) | general | Only keeping 20 past recordings
+L4 | Sat Nov 24 23:38:51 2018 (404 ms) | general | Removed 0 stale recordings
+L4 | Sat Nov 24 23:39:05 2018 (702 ms) | general | exiting...
+
+L4 | Sat Nov 24 23:39:05 2018 (702 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sat Nov 24 23:39:05 2018 (739 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sat Nov 24 23:39:05 2018 (739 ms) | general | Freeing sound sprites
+
+L4 | Sat Nov 24 23:39:05 2018 (739 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sat Nov 24 23:39:05 2018 (770 ms) | general | exiting: Deleting screen
+
+L4 | Sat Nov 24 23:39:05 2018 (771 ms) | general | exiting: freeing drawString
+
+L4 | Sat Nov 24 23:39:05 2018 (771 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sat Nov 24 23:39:05 2018 (791 ms) | general | exiting: Done.
+
+L4 | Sat Nov 24 23:39:56 2018 (173 ms) | general | New game starting up
+L4 | Sat Nov 24 23:39:56 2018 (173 ms) | general | Target game image size:  1280x720
+
+L4 | Sat Nov 24 23:39:56 2018 (173 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sat Nov 24 23:39:56 2018 (174 ms) | general | Trying to start in fullscreen mode.
+L4 | Sat Nov 24 23:39:56 2018 (175 ms) | general | The following frame rates are considered possible:
+L4 | Sat Nov 24 23:39:56 2018 (175 ms) | general | 30 fps
+L4 | Sat Nov 24 23:39:56 2018 (175 ms) | general | 60 fps
+L4 | Sat Nov 24 23:39:56 2018 (175 ms) | general | 120 fps
+L4 | Sat Nov 24 23:39:56 2018 (175 ms) | general | 144 fps
+L4 | Sat Nov 24 23:39:56 2018 (180 ms) | general | Setting borderless mode for fullscreen
+L4 | Sat Nov 24 23:39:56 2018 (180 ms) | general | Current screen configuration is 1920x1080 with aspect ratio 1.77
+L4 | Sat Nov 24 23:39:56 2018 (180 ms) | general | All resolutions available
+L4 | Sat Nov 24 23:39:56 2018 (180 ms) | general | Sticking with user's current screen resolution
+L4 | Sat Nov 24 23:39:56 2018 (180 ms) | general | Adding 1 to borderless window height of 1080 resulting in total height of 1081
+L4 | Sat Nov 24 23:39:56 2018 (619 ms) | general | Trying to load pointer from graphics/bigPointer.tga
+L4 | Sat Nov 24 23:39:56 2018 (707 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sat Nov 24 23:39:56 2018 (880 ms) | general | Recording game into file recordedGames\recordedGame000003.txt
+L4 | Sat Nov 24 23:39:56 2018 (880 ms) | general | Only keeping 20 past recordings
+L4 | Sat Nov 24 23:39:56 2018 (880 ms) | general | Removed 0 stale recordings
+L4 | Sun Nov 25 00:41:36 2018 (755 ms) | general | exiting...
+
