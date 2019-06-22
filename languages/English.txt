@@ -79,6 +79,10 @@ reviewUpdated "REVIEW HAS BEEN UPDATED"
 reviewRemoved "REVIEW HAS BEEN REMOVED"
 
 
+poll "USER POLL:"
+submit "SUBMIT"
+
+
 
 saveTip "LOGIN AND STORE DETAILS LOCALLY"
 clearAccountTip "DELETES ACCOUNT DETAILS FROM DISK"
@@ -116,6 +120,7 @@ targetFPS "TARGET FRAME RATE:"
 vsyncOn "USING VSYNC:"
 vsyncYes "YES"
 vsyncNo "NO"
+retryButton "RETRY"
 redetectButton "RE-DETECT"
 
 
@@ -172,6 +177,19 @@ serverUpdate "SERVERS ARE IN THE PROCESS OF UPDATING"
 serverFull "SERVER IS FULL"
 
 connectionFailed "CONNECTION FAILED"
+
+noLifeTokens "YOU ARE OUT OF LIVES"
+
+
+tokenMessage "%d/%d %s LEFT##(NEW LIFE EVERY %d %s WHEN BELOW %d %s)"
+
+livesPlural "LIVES"
+lifeSingular "LIFE"
+
+minutesPlural "MINUTES"
+minuteSingular "MINUTE"
+
+tokenTimeMessage "NEW LIFE IN:  "
 
 
 customServerMesssage "CUSTOM SERVER:  %s : %d"
@@ -233,6 +251,9 @@ noMatch "(NO FILTER MATCH)"
 
 your "YOUR"
 of "OF"
+
+ownedBy "OWNED BY"
+
 
 mother "MOTHER"
 son "SON"
@@ -296,6 +317,41 @@ manyTimes "MANY TIMES"
 
 unrelated "NO RELATION"
 
+distantRelative "DISTANT RELATIVE"
+
+namelessPerson "NAMELESS PERSON"
+
+forgottenPerson "FORGOTTEN PERSON"
+
+unknownPerson "UNKNOWN PERSON"
+
+yearAgo "YEAR AGO"
+yearsAgo "YEARS AGO"
+
+died "DIED"
+
+zero "ZERO"
+one "ONE"
+two "TWO"
+three "THREE"
+four "FOUR"
+five "FIVE"
+six "SIX"
+seven "SEVEN"
+eight "EIGHT"
+nine "NINE"
+ten "TEN"
+eleven "ELEVEN"
+twelve "TWELVE"
+thirteen "THIRTEEN"
+fourteen "FOURTEEN"
+fifteen "FIFTEEN"
+sixteen "SIXTEEN"
+seventeen "SEVENTEEN"
+eighteen "EIGHTEEN"
+nineteen "NINETEEN"
+twenty "TWENTY"
+
 
 
 dieCommand "/DIE"
@@ -305,6 +361,10 @@ fpsCommand "/FPS"
 netCommand "/NET"
 
 pingCommand "/PING"
+
+disconnectCommand "/DISCONNECT"
+
+
 
 fps "FPS"
 
